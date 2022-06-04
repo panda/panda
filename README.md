@@ -7,6 +7,6 @@
 
 
 ## About me:
-- I am currently a undergraduate student studying Computer Science.
-- I am currently learning [Rust](https://rust-lang.org)
+- I'm a undergraduate student studying Computer Science.
+- I'm currently learning [Rust](https://rust-lang.org) & [Scala](https://docs.scala-lang.org/scala3/book/why-scala-3.html)
 - **Fun fact**: I am mildly allergic to **buzzwords**
