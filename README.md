@@ -1,3 +1,4 @@
+```toml
 [human]
 name = "steve"
 version = { age = 23.0 }
@@ -13,3 +14,4 @@ interests = ["Rust", "Scala 3", "Kubernetes", "DevOps"]
 email = "Steve <steve shift2 pnada dot co>"
 discord = "steve4"
 website = "pnada dot co"
+```
