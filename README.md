@@ -1,7 +1,7 @@
 ```toml
 [human]
 name = "steve"
-version = { age = 23.0 }
+age = 23.0
 
 [human.info]
 location = { day = "Eorzea", night = "Sanctuary"}
