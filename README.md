@@ -1,14 +1,14 @@
 ```toml
 [human]
 name = "steve"
-age = 23.0
+age = 24.0
 
 [human.info]
-location = { day = "Eorzea", night = "Sanctuary"}
+location = { day = "Eorzea", night = "Sanctuary" }
 class = "rogue"
 occupation = "devops engineer"
 allergies = "**buzzwords**"
-interests = ["Rust", "Scala 3", "Kubernetes", "DevOps"]
+interests = ["Rust", "Scala 3", "Kubernetes", "DevOps", "Python"]
 
 [human.contact]
 email = "Steve <steve shift2 pnada dot co>"
