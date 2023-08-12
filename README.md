@@ -11,7 +11,7 @@ allergies = "**buzzwords**"
 interests = ["Rust", "Scala 3", "Kubernetes", "DevOps", "Python"]
 
 [human.contact]
-email = "Steve <steve shift2 pnada dot co>"
+email = "Steve K <steve shift2 pnada dot co>"
 discord = "steve4"
 website = "pnada dot co"
 ```
