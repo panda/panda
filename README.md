@@ -8,10 +8,11 @@ location = { day = "Eorzea", night = "Sanctuary" }
 class = "rogue"
 occupation = "devops engineer"
 allergies = "**buzzwords**"
-interests = ["Rust", "Scala 3", "Kubernetes", "DevOps", "Python"]
+interests = ["Rust", "Scala 3", "Kubernetes", "DevOps"]
+quote = "functional programming is my destiny, i just don't know how to do it yet"
 
 [human.contact]
-email = "Steve K <steve shift2 pnada dot co>"
+email = "stevenkotwal@ufl.edu"
 discord = "steve4"
 website = "pnada dot co"
 ```
