@@ -1,4 +1,3 @@
-```toml
 [human]
 name = "steve"
 age = 24.0
@@ -15,4 +14,3 @@ quote = "functional programming is my destiny, i just don't know how to do it ye
 email = "stevenkotwal@ufl.edu"
 discord = "steve4"
 website = "pnada dot co"
-```
