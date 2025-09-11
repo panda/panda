@@ -1,16 +1,15 @@
 [human]
 name = "steve"
-age = 24.0
+age = 26.0
 
 [human.info]
-location = { day = "Eorzea", night = "Sanctuary" }
-class = "rogue"
-occupation = "devops engineer"
+location = "space"
+occupation = "devops"
 allergies = "**buzzwords**"
-interests = ["Rust", "Scala 3", "Kubernetes", "DevOps"]
+interests = ["Rust", "Kubernetes", "DevOps", "Space and Technology"]
 quote = "functional programming is my destiny, i just don't know how to do it yet"
 
 [human.contact]
-email = "stevenkotwal@ufl.edu"
+email = "hidden"
 discord = "steve4"
 website = "pnada dot co"
